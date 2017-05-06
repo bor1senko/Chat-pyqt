@@ -1,6 +1,7 @@
 ## Chat
-# Requirements
-*PyQt4
+-------------------
+# requirements:
+* PyQt4
 
-# statr app
-* python chat_app.py
+# start app:
+<p>python chat_app.py</p>
